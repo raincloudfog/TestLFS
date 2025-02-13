@@ -1,0 +1,14 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\users\\qordl\\documents\\unreal projects\\testlfs\\source\\testlfs\\testlfs.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\qordl\\documents\\unreal projects\\testlfs\\intermediate\\build\\win64\\x64\\testlfseditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.cpp20.h.pch",
+        "Includes": [
+            "c:\\users\\qordl\\documents\\unreal projects\\testlfs\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\testlfs\\definitions.testlfs.h",
+            "c:\\users\\qordl\\documents\\unreal projects\\testlfs\\source\\testlfs\\testlfs.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "testlfs",
+			"Path": "..\\Source\\testlfs.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "testlfsEditor",
+			"Path": "..\\Source\\testlfsEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

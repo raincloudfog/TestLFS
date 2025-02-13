@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\testlfs.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{F31BBDD1-B3E8-3BCC-9652-680E16935819}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\testlfs.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\testlfsEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <Filter Include="Config">
+      <UniqueIdentifier>{FA535FFB-25E1-3D20-B416-52F9BE21E06E}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultInput.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\testlfs">
+      <UniqueIdentifier>{B88D1BDB-24DF-312B-BA61-28000D8A1D4D}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\testlfs\testlfs.Build.cs">
+      <Filter>Source\testlfs</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\testlfs\testlfs.cpp">
+      <Filter>Source\testlfs</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\testlfs\testlfs.h">
+      <Filter>Source\testlfs</Filter>
+    </ClCompile>
+  </ItemGroup>
+</Project>
